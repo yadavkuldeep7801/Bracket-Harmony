@@ -1,0 +1,5 @@
+{
+  "name": "Bracket Harmony",
+  "description": "An interactive visualizer for the classic 'Valid Parentheses' problem, demonstrating stack-based algorithms with step-by-step animations and AI-powered explanations.",
+  "requestFramePermissions": []
+}
